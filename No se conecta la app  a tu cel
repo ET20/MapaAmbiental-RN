@@ -1,0 +1,3 @@
+Por las duas que no quiera conectarce , inicie este comando 
+set REACT_NATIVE_PACKAGER_HOSTNAME=(su ip actual)
+esto permite conectarce , tuve este problema y lo aclaro aca para poder acceder a la solucion rapidamente
